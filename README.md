@@ -1,6 +1,6 @@
 # Etienne Collin
 
-I am a computer Science Student and [Schulich Leader](https://schulichleaders.com/) at Université de Montréal.
+I am a computer Science Student and a [Schulich Leader](https://schulichleaders.com/) at Université de Montréal.
 I love solving problems and understanding how things fundamentally work.
 
 Fun facts:
