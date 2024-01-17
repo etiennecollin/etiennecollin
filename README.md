@@ -1,4 +1,8 @@
-# Etienne Collin
+# Hey there 🍁
+
+[![Etienne's github stats](https://github-readme-stats.vercel.app/api?username=etiennecollin&count_private=true&show_icons=true)](https://github.com/etiennecollin)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=etiennecollin&size_weight=0.75&count_weight=0.25&hide=tex,scss,html)](https://github.com/etiennecollin)
 
 I am a computer Science Student and a [Schulich Leader](https://schulichleaders.com/) at Université de Montréal.
 I love solving problems and understanding how things fundamentally work.
