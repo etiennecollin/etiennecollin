@@ -13,7 +13,8 @@
 ## ☀️ Fun facts
 
 - I like to play the piano
-- To be happy, I need to keep learning (and I love it)
+- I need to keep learning to be happy
 - I love riding and modding my Floatwheel/Onewheel
 - I designed and built my own split keyboard ([see it by yourself](https://github.com/etiennecollin/wave))!
+- I really enjoyed working on this small embedded project featuring rust and an ESP32. [Learn more about it](https://github.com/etiennecollin/wakesp)!
 - I use [Arch](https://github.com/etiennecollin/dotfiles) and [Neovim](https://github.com/etiennecollin/nvim) btw
