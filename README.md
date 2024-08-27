@@ -8,8 +8,6 @@
 [![Etienne's GitHub stats](https://github-readme-stats.vercel.app/api?username=etiennecollin&count_private=true&show_icons=true)](https://github.com/etiennecollin)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=etiennecollin&size_weight=0.75&count_weight=0.25&layout=compact&show_icons=true&hide=html,scss)](https://github.com/etiennecollin)
 
-> _thanks to java for sponsoring my education hahaha_
-
 ## ☀️ Fun facts
 
 - I like to play the piano
