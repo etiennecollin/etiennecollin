@@ -5,12 +5,16 @@
 
 ## 📈 My GitHub Statistics
 
-
 <p align="center">
   <a href="https://github.com/etiennecollin">
     <img alt="Etienne's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=etiennecollin&count_private=true&show_icons=true" />
     <img alt="Top Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=etiennecollin&size_weight=0.75&count_weight=0.25&layout=compact&show_icons=true&hide=html,scss" />
-    <br />
+  </a>
+</p>
+
+## ⚒️ Tools I use
+<p align="center">
+  <a href="https://github.com/etiennecollin">
     <img alt="Used Tools" src="https://skillicons.dev/icons?i=ableton,apple,arch,bash,blender,c,discord,docker,git,github,gitlab,java,latex,linkedin,linux,lua,markdown,neovim,python,pytorch,raspberrypi,regex,rust,tailwind,tauri,ubuntu,vim" />
   </a>
 </p>
