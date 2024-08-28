@@ -13,6 +13,7 @@
 </p>
 
 ## ⚒️ Tools I use
+
 <p align="center">
   <a href="https://github.com/etiennecollin">
     <img alt="Used Tools" src="https://skillicons.dev/icons?i=ableton,apple,arch,bash,blender,c,discord,docker,git,github,gitlab,java,latex,linkedin,linux,lua,markdown,neovim,python,pytorch,raspberrypi,regex,rust,tailwind,tauri,ubuntu,vim" />
