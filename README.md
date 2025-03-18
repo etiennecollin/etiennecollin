@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://github.com/etiennecollin">
     <img alt="Etienne's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=etiennecollin&count_private=true&show_icons=true" />
-    <img alt="Top Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=etiennecollin&size_weight=0.75&count_weight=0.25&layout=compact&show_icons=true&hide=html,scss" />
+    <img alt="Top Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=etiennecollin&size_weight=0.50&count_weight=0.50&layout=compact&show_icons=true&hide=html,scss,javascript,jupyter%20notebook" />
   </a>
 </p>
 
