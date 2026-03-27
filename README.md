@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Etienne 🍁</h1>
 
-**I am an Embedded Software Developer, and a [Schulich Leader](https://schulichleaders.com/) at Université de Montréal.**
+**I am an Avionics Embedded Software Developer at Reaction Dynamics, and a [Schulich Leader](https://schulichleaders.com/) at Université de Montréal.**
 **I love solving problems and understanding how things fundamentally work. Building fast and efficient software is my passion, and over-engineering solutions is my signature approach :)**
 
 ## 📈 My GitHub Statistics
